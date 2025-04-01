@@ -11,6 +11,6 @@ Key Features:
 ✅ Error Handling: Alerts for invalid inputs and network failures.  
 
 How It Works:   
-1)Select the target currency to convert to.  
+1)Select the from country and to country. 
 2)Enter the amount to be converted.  
 3)Click the "Convert" button to get the real-time exchange rate and converted amount.  
