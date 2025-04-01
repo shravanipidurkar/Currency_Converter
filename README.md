@@ -1,5 +1,6 @@
 # Currency_Converter
 Currency Converter - Real-Time Exchange Rate Application
+
 The Currency Converter is a Java Swing-based application that allows users to convert currencies in real time using the latest exchange rates fetched from an online API. The tool is designed to provide quick and accurate conversions for various global currencies.
 
 Key Features:
