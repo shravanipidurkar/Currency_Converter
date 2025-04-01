@@ -250,7 +250,7 @@ public class MainFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jAmountActionPerformed
 //=============================================================================================================================
     private static final String CACHE_FILE = "conversionCache.json"; // Cache file for conversion data
-    private static final String API_KEY = "513df3456b5838c7968bacf454ac7cfc"; // API Key
+    private static final String API_KEY = " "; // API Key
     private static final String API_URL = String.format("https://data.fixer.io/api/latest?access_key=%s", API_KEY); // API URL
 
     private static String fetchConversionDataFromApi() throws Exception {
@@ -314,7 +314,7 @@ public class MainFrame extends javax.swing.JFrame {
 //============================================================================================================================
 //    public static double convertCurrency(double amount, String fromCurrency, String toCurrency) throws Exception {
 //        // Defining API key and URL
-//        String apiKey = "513df3456b5838c7968bacf454ac7cfc";
+//        String apiKey = " ";
 //        String apiUrl = String.format("https://data.fixer.io/api/latest?access_key=%s", apiKey);
 //
 //        HttpClient client = HttpClient.newHttpClient();
